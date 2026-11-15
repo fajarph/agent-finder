@@ -8,8 +8,10 @@ An educational machine-learning project. It **collects real public GitHub projec
 - Optional `GITHUB_TOKEN` with read-only access for higher GitHub API limits. **Do not use your TMDB token.** Do not commit any token.
 
 ## Recommended workflow
-1. Open `notebooks/AgentFinder_Colab.ipynb` in Google Colab. Run cells top to bottom. Export the `AgentFinder_Artifacts.zip` file.
-2. Extract the ZIP *into the root AgentFinder folder* (it contains `data/` and `models/`). Verify `models/knn.joblib` and `data/agents_clean.csv` exist.
+> **Shortcut — no Colab needed.** `data/` and `models/` are already committed (including the trained `.joblib` models, `metrics.json`, and the real crawled CSVs). Download the repo with **Code → Download ZIP**, extract it, and jump straight to step 3. Steps 1-2 are only for regenerating the dataset and models from scratch.
+
+1. *(Optional)* To regenerate everything from scratch, open `notebooks/AgentFinder_Colab.ipynb` in Google Colab, run cells top to bottom, and export `AgentFinder_Artifacts.zip`. Extract it into the root `AgentFinder` folder and verify `models/knn.joblib` and `data/agents_clean.csv` exist.
+2. *(Optional)* Or re-crawl and re-train locally — see "Crawling without Colab" below.
 3. In VS Code, open `AgentFinder`, then open **two PowerShell terminals**:
 
 **Terminal 1 — API** (run from project root):

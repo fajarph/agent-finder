@@ -1,0 +1,130 @@
+{
+  "dataset_size": 99,
+  "train_size": 74,
+  "test_size": 25,
+  "class_distribution": {
+    "Coding Agent": 61,
+    "Agent Orchestrator": 20,
+    "Multi-Agent Terminal": 18
+  },
+  "classes": [
+    "Coding Agent",
+    "Multi-Agent Terminal",
+    "Agent Orchestrator"
+  ],
+  "label_quality": "weak labels from documented keyword rules; manual audit required",
+  "naive_bayes": {
+    "accuracy": 0.6,
+    "precision_macro": 0.2,
+    "recall_macro": 0.3333,
+    "f1_macro": 0.25,
+    "confusion_matrix": [
+      [
+        15,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        0
+      ],
+      [
+        5,
+        0,
+        0
+      ]
+    ],
+    "classification_report": {
+      "Coding Agent": {
+        "precision": 0.6,
+        "recall": 1.0,
+        "f1-score": 0.75,
+        "support": 15.0
+      },
+      "Multi-Agent Terminal": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 5.0
+      },
+      "Agent Orchestrator": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 5.0
+      },
+      "accuracy": 0.6,
+      "macro avg": {
+        "precision": 0.19999999999999998,
+        "recall": 0.3333333333333333,
+        "f1-score": 0.25,
+        "support": 25.0
+      },
+      "weighted avg": {
+        "precision": 0.36,
+        "recall": 0.6,
+        "f1-score": 0.45,
+        "support": 25.0
+      }
+    }
+  },
+  "decision_tree": {
+    "accuracy": 0.64,
+    "precision_macro": 0.6389,
+    "recall_macro": 0.6222,
+    "f1_macro": 0.612,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        5
+      ],
+      [
+        1,
+        3,
+        1
+      ],
+      [
+        1,
+        1,
+        3
+      ]
+    ],
+    "classification_report": {
+      "Coding Agent": {
+        "precision": 0.8333333333333334,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.7407407407407407,
+        "support": 15.0
+      },
+      "Multi-Agent Terminal": {
+        "precision": 0.75,
+        "recall": 0.6,
+        "f1-score": 0.6666666666666666,
+        "support": 5.0
+      },
+      "Agent Orchestrator": {
+        "precision": 0.3333333333333333,
+        "recall": 0.6,
+        "f1-score": 0.42857142857142855,
+        "support": 5.0
+      },
+      "accuracy": 0.64,
+      "macro avg": {
+        "precision": 0.638888888888889,
+        "recall": 0.6222222222222222,
+        "f1-score": 0.6119929453262787,
+        "support": 25.0
+      },
+      "weighted avg": {
+        "precision": 0.7166666666666667,
+        "recall": 0.64,
+        "f1-score": 0.6634920634920634,
+        "support": 25.0
+      }
+    }
+  },
+  "knn_evaluation": "No relevance judgments supplied; Precision@5 not fabricated.",
+  "evaluated_at": "2026-11-15T11:53:20.837472+00:00"
+}

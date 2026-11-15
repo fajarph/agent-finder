@@ -1,0 +1,301 @@
+repository,source_url,http_status,status,category_rule,crawled_at
+Aider-AI/aider,https://github.com/Aider-AI/aider/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+anomalyco/opencode,https://github.com/anomalyco/opencode/blob/dev/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+smtg-ai/claude-squad,https://github.com/smtg-ai/claude-squad/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+BloopAI/vibe-kanban,https://github.com/BloopAI/vibe-kanban/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+Dicklesworthstone/claude_code_agent_farm,https://github.com/Dicklesworthstone/claude_code_agent_farm/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+microsoft/autogen,https://github.com/microsoft/autogen/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+crewAIInc/crewAI,https://github.com/crewAIInc/crewAI/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+sindresorhus/awesome,https://github.com/sindresorhus/awesome/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+trimstray/the-book-of-secret-knowledge,https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+public-apis/public-apis,https://github.com/public-apis/public-apis/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+avelino/awesome-go,https://github.com/avelino/awesome-go/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+awesome-selfhosted/awesome-selfhosted,https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+morluto/rea,https://github.com/morluto/rea/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+jlevy/the-art-of-command-line,https://github.com/jlevy/the-art-of-command-line/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+vinta/awesome-python,https://github.com/vinta/awesome-python/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+openclaw/openclaw,https://github.com/openclaw/openclaw/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+jaywcjlove/awesome-mac,https://github.com/jaywcjlove/awesome-mac/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+affaan-m/ECC,https://github.com/affaan-m/ECC/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+mattpocock/skills,https://github.com/mattpocock/skills/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+nilbuild/developer-roadmap,https://github.com/nilbuild/developer-roadmap/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+punkpeye/awesome-mcp-servers,https://github.com/punkpeye/awesome-mcp-servers/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+obra/superpowers,https://github.com/obra/superpowers/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+rust-unofficial/awesome-rust,https://github.com/rust-unofficial/awesome-rust/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+firecrawl/firecrawl,https://github.com/firecrawl/firecrawl/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+multica-ai/multica,https://github.com/multica-ai/multica/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+NousResearch/hermes-agent,https://github.com/NousResearch/hermes-agent/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+charlax/professional-programming,https://github.com/charlax/professional-programming/blob/master/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+ollama/ollama,https://github.com/ollama/ollama/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+yt-dlp/yt-dlp,https://github.com/yt-dlp/yt-dlp/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+alebcay/awesome-shell,https://github.com/alebcay/awesome-shell/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+msitarzewski/agency-agents,https://github.com/msitarzewski/agency-agents/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+manaflow-ai/cmux,https://github.com/manaflow-ai/cmux/blob/main/README.md,200,included,Multi-Agent Terminal,2026-11-15T11:45:46.165921+00:00
+langflow-ai/langflow,https://github.com/langflow-ai/langflow/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+anderspitman/awesome-tunneling,https://github.com/anderspitman/awesome-tunneling/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+Shubhamsaboo/awesome-llm-apps,https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+multica-ai/andrej-karpathy-skills,https://github.com/multica-ai/andrej-karpathy-skills/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+rockerBOO/awesome-neovim,https://github.com/rockerBOO/awesome-neovim/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+ripienaar/free-for-dev,https://github.com/ripienaar/free-for-dev/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+farion1231/cc-switch,https://github.com/farion1231/cc-switch/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+rothgar/awesome-tuis,https://github.com/rothgar/awesome-tuis/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+addyosmani/agent-skills,https://github.com/addyosmani/agent-skills/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+nextlevelbuilder/ui-ux-pro-max-skill,https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+n8n-io/n8n,https://github.com/n8n-io/n8n/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+unixorn/awesome-zsh-plugins,https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+paperclipai/paperclip,https://github.com/paperclipai/paperclip/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+Graphify-Labs/graphify,https://github.com/Graphify-Labs/graphify/blob/v8/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+xpipe-io/xpipe,https://github.com/xpipe-io/xpipe/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+ruvnet/RuView,https://github.com/ruvnet/RuView/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+anthropics/skills,https://github.com/anthropics/skills/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+trimstray/test-your-sysadmin-skills,https://github.com/trimstray/test-your-sysadmin-skills/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+garrytan/gstack,https://github.com/garrytan/gstack/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+awesome-opencode/awesome-opencode,https://github.com/awesome-opencode/awesome-opencode/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+OpenHands/OpenHands,https://github.com/OpenHands/OpenHands/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+stablyai/orca,https://github.com/stablyai/orca/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+DietrichGebert/ponytail,https://github.com/DietrichGebert/ponytail/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+onceupon/Bash-Oneliner,https://github.com/onceupon/Bash-Oneliner/blob/master/README.md,200,included,Multi-Agent Terminal,2026-11-15T11:45:46.165921+00:00
+PaddlePaddle/PaddleOCR,https://github.com/PaddlePaddle/PaddleOCR/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+TauricResearch/TradingAgents,https://github.com/TauricResearch/TradingAgents/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+Significant-Gravitas/AutoGPT,https://github.com/Significant-Gravitas/AutoGPT/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+rothgar/awesome-tmux,https://github.com/rothgar/awesome-tmux/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+Egonex-AI/Understand-Anything,https://github.com/Egonex-AI/Understand-Anything/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+frankbria/ralph-claude-code,https://github.com/frankbria/ralph-claude-code/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+bregman-arie/devops-exercises,https://github.com/bregman-arie/devops-exercises/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+microsoft/playwright,https://github.com/microsoft/playwright/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+f/prompts.chat,https://github.com/f/prompts.chat/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+Axorax/awesome-free-apps,https://github.com/Axorax/awesome-free-apps/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+bytedance/deer-flow,https://github.com/bytedance/deer-flow/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+craftzdog/dotfiles,https://github.com/craftzdog/dotfiles/blob/master/README.md,200,included,Multi-Agent Terminal,2026-11-15T11:45:46.165921+00:00
+mlabonne/llm-course,https://github.com/mlabonne/llm-course/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+langgenius/dify,https://github.com/langgenius/dify/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+piotrkulpinski/open-source-alternatives,https://github.com/piotrkulpinski/open-source-alternatives/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+ruvnet/ruflo,https://github.com/ruvnet/ruflo/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+Snailclimb/JavaGuide,https://github.com/Snailclimb/JavaGuide/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+agent-substrate/substrate,https://github.com/agent-substrate/substrate/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+OpenMontageInc/OpenMontage,https://github.com/OpenMontageInc/OpenMontage/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+cheaper-inference/OmniRoute,https://github.com/cheaper-inference/OmniRoute/blob/release/v3.8.54/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+open-webui/open-webui,https://github.com/open-webui/open-webui/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+shockerli/go-awesome,https://github.com/shockerli/go-awesome/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+shareAI-lab/learn-claude-code,https://github.com/shareAI-lab/learn-claude-code/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+Gaurav-Gosain/tuios,https://github.com/Gaurav-Gosain/tuios/blob/main/README.md,200,included,Multi-Agent Terminal,2026-11-15T11:45:46.165921+00:00
+headroomlabs-ai/headroom,https://github.com/headroomlabs-ai/headroom/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+666ghj/MiroFish,https://github.com/666ghj/MiroFish/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+anthropics/claude-code,https://github.com/anthropics/claude-code/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+aymericdamien/TopDeepLearning,https://github.com/aymericdamien/TopDeepLearning/blob/master/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+ComposioHQ/awesome-claude-skills,https://github.com/ComposioHQ/awesome-claude-skills/blob/master/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+lobehub/lobehub,https://github.com/lobehub/lobehub/blob/canary/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+Nukesor/pueue,https://github.com/Nukesor/pueue/blob/main/README.md,200,included,Multi-Agent Terminal,2026-11-15T11:45:46.165921+00:00
+rohitg00/ai-engineering-from-scratch,https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+github/spec-kit,https://github.com/github/spec-kit/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+cheatsnake/backend-cheats,https://github.com/cheatsnake/backend-cheats/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+usestrix/strix,https://github.com/usestrix/strix/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+Developer-Y/cs-video-courses,https://github.com/Developer-Y/cs-video-courses/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+PeonPing/peon-ping,https://github.com/PeonPing/peon-ping/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+josephmisiti/awesome-machine-learning,https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+career-ops-hq/career-ops,https://github.com/career-ops-hq/career-ops/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+langchain-ai/langchain,https://github.com/langchain-ai/langchain/blob/master/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+alvinreal/awesome-opensource-ai,https://github.com/alvinreal/awesome-opensource-ai/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+cloudflare/security-audit-skill,https://github.com/cloudflare/security-audit-skill/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+zenbu-labs/terminal-browser,https://github.com/zenbu-labs/terminal-browser/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+ai-job-search-dev/ai-job-search,https://github.com/ai-job-search-dev/ai-job-search/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+fosslife/awesome-ricing,https://github.com/fosslife/awesome-ricing/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+ansible/ansible,https://github.com/ansible/ansible/blob/devel/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+colbymchenry/codegraph,https://github.com/colbymchenry/codegraph/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+x1xhlol/system-prompts-and-models-of-ai-tools,https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+RoganDawes/P4wnP1_aloa,https://github.com/RoganDawes/P4wnP1_aloa/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+FoundationAgents/MetaGPT,https://github.com/FoundationAgents/MetaGPT/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+hiyouga/LlamaFactory,https://github.com/hiyouga/LlamaFactory/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+harry0703/MoneyPrinterTurbo,https://github.com/harry0703/MoneyPrinterTurbo/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+trinib/Linux-Bash-Commands,https://github.com/trinib/Linux-Bash-Commands/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+shanraisshan/claude-code-best-practice,https://github.com/shanraisshan/claude-code-best-practice/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+Adembc/lazyssh,https://github.com/Adembc/lazyssh/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+MisterTea/EternalTerminal,https://github.com/MisterTea/EternalTerminal/blob/master/README.md,200,included,Multi-Agent Terminal,2026-11-15T11:45:46.165921+00:00
+fffaraz/awesome-cpp,https://github.com/fffaraz/awesome-cpp/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+VoltAgent/awesome-design-md,https://github.com/VoltAgent/awesome-design-md/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+psmux/psmux,https://github.com/psmux/psmux/blob/master/README.md,200,included,Multi-Agent Terminal,2026-11-15T11:45:46.165921+00:00
+prakhar1989/awesome-courses,https://github.com/prakhar1989/awesome-courses/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+fortio/fortio,https://github.com/fortio/fortio/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+HKUDS/CLI-Anything,https://github.com/HKUDS/CLI-Anything/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+microsoft/generative-ai-for-beginners,https://github.com/microsoft/generative-ai-for-beginners/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+mustbeperfect/definitive-opensource,https://github.com/mustbeperfect/definitive-opensource/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+router-for-me/CLIProxyAPI,https://github.com/router-for-me/CLIProxyAPI/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+SeemSeam/claude_codex_bridge,https://github.com/SeemSeam/claude_codex_bridge/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+hesreallyhim/awesome-claude-code,https://github.com/hesreallyhim/awesome-claude-code/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+earendil-works/pi,https://github.com/earendil-works/pi/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+pawelborkar/awesome-repos,https://github.com/pawelborkar/awesome-repos/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+Imbad0202/academic-research-skills,https://github.com/Imbad0202/academic-research-skills/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+code-yeongyu/oh-my-openagent,https://github.com/code-yeongyu/oh-my-openagent/blob/dev/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+browser-use/browser-use,https://github.com/browser-use/browser-use/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+taishi-i/awesome-ChatGPT-repositories,https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+VoltAgent/awesome-openclaw-skills,https://github.com/VoltAgent/awesome-openclaw-skills/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+JuliusBrussee/caveman,https://github.com/JuliusBrussee/caveman/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+GStreamer/gstreamer,https://github.com/GStreamer/gstreamer/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+dkhamsing/open-source-ios-apps,https://github.com/dkhamsing/open-source-ios-apps/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+mem0ai/mem0,https://github.com/mem0ai/mem0/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+orhun/ratty,https://github.com/orhun/ratty/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+KeygraphHQ/shannon,https://github.com/KeygraphHQ/shannon/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+mvanhorn/last30days-skill,https://github.com/mvanhorn/last30days-skill/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+learning-zone/nodejs-basics,https://github.com/learning-zone/nodejs-basics/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+serhii-londar/open-source-mac-os-apps,https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+cathrynlavery/diagram-design,https://github.com/cathrynlavery/diagram-design/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+thedotmack/claude-mem,https://github.com/thedotmack/claude-mem/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+RoversX/LaunchNext,https://github.com/RoversX/LaunchNext/blob/main/README.md,200,included,Multi-Agent Terminal,2026-11-15T11:45:46.165921+00:00
+sickn33/agentic-awesome-skills,https://github.com/sickn33/agentic-awesome-skills/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+jingyaogong/minimind,https://github.com/jingyaogong/minimind/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+Leonxlnx/taste-skill,https://github.com/Leonxlnx/taste-skill/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+0PandaDEV/awesome-windows,https://github.com/0PandaDEV/awesome-windows/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+akullpp/awesome-java,https://github.com/akullpp/awesome-java/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+BerriAI/litellm,https://github.com/BerriAI/litellm/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+erebe/personal-server,https://github.com/erebe/personal-server/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+luongnv89/claude-howto,https://github.com/luongnv89/claude-howto/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+vectorize-io/hindsight,https://github.com/vectorize-io/hindsight/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+Panniantong/Agent-Reach,https://github.com/Panniantong/Agent-Reach/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+cdleon/awesome-terminals,https://github.com/cdleon/awesome-terminals/blob/master/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+serverless/serverless,https://github.com/serverless/serverless/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+debpalash/VoiceStudio,https://github.com/debpalash/VoiceStudio/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+raine/workmux,https://github.com/raine/workmux/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+Kong/kong,https://github.com/Kong/kong/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+pbakaus/impeccable,https://github.com/pbakaus/impeccable/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+kyrolabs/awesome-agents,https://github.com/kyrolabs/awesome-agents/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+THU-MAIC/OpenMAIC,https://github.com/THU-MAIC/OpenMAIC/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+meta-llama/llama,https://github.com/meta-llama/llama/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+google-gemini/gemini-cli,https://github.com/google-gemini/gemini-cli/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+nicknisi/dotfiles,https://github.com/nicknisi/dotfiles/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+patchy631/ai-engineering-hub,https://github.com/patchy631/ai-engineering-hub/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+nexu-io/open-design,https://github.com/nexu-io/open-design/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+CodyReichert/awesome-cl,https://github.com/CodyReichert/awesome-cl/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+ToolJet/ToolJet,https://github.com/ToolJet/ToolJet/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+K-Dense-AI/scientific-agent-skills,https://github.com/K-Dense-AI/scientific-agent-skills/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+Vexa-ai/vexa,https://github.com/Vexa-ai/vexa/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+Yeachan-Heo/oh-my-claudecode,https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+emilkowalski/skills,https://github.com/emilkowalski/skills/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+D4Vinci/Scrapling,https://github.com/D4Vinci/Scrapling/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+aljazceru/awesome-nostr,https://github.com/aljazceru/awesome-nostr/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+vadimdemedes/ink,https://github.com/vadimdemedes/ink/blob/master/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+joshmedeski/sesh,https://github.com/joshmedeski/sesh/blob/main/README.md,200,included,Multi-Agent Terminal,2026-11-15T11:45:46.165921+00:00
+ashishpatel26/500-AI-Agents-Projects,https://github.com/ashishpatel26/500-AI-Agents-Projects/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+tashfeenahmed/freellmapi,https://github.com/tashfeenahmed/freellmapi/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+karpathy/autoresearch,https://github.com/karpathy/autoresearch/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+reacher-z/Awesome-REA,https://github.com/reacher-z/Awesome-REA/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+deepseek-ai/awesome-deepseek-integration,https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+rohitg00/awesome-claude-code-toolkit,https://github.com/rohitg00/awesome-claude-code-toolkit/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+can1357/oh-my-pi,https://github.com/can1357/oh-my-pi/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+lukasz-madon/awesome-remote-job,https://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+microsoft/Web-Dev-For-Beginners,https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+folke/sidekick.nvim,https://github.com/folke/sidekick.nvim/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+AlexsJones/llmfit,https://github.com/AlexsJones/llmfit/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+mudler/LocalAI,https://github.com/mudler/LocalAI/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+tt-a1i/archify,https://github.com/tt-a1i/archify/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+Helvesec/rmux,https://github.com/Helvesec/rmux/blob/main/README.md,200,included,Multi-Agent Terminal,2026-11-15T11:45:46.165921+00:00
+musistudio/claude-code-router,https://github.com/musistudio/claude-code-router/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+microsoft/qlib,https://github.com/microsoft/qlib/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+toolleeo/awesome-cli-apps-in-a-csv,https://github.com/toolleeo/awesome-cli-apps-in-a-csv/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+agentscope-ai/QwenPaw,https://github.com/agentscope-ai/QwenPaw/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+CoderLuii/HolyClaude,https://github.com/CoderLuii/HolyClaude/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+block/buzz,https://github.com/block/buzz/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+zigcc/awesome-zig,https://github.com/zigcc/awesome-zig/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+veggiemonk/awesome-docker,https://github.com/veggiemonk/awesome-docker/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+DeusData/codebase-memory-mcp,https://github.com/DeusData/codebase-memory-mcp/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+microsoft/ML-For-Beginners,https://github.com/microsoft/ML-For-Beginners/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+andyrewlee/awesome-agent-orchestrators,https://github.com/andyrewlee/awesome-agent-orchestrators/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+VoltAgent/awesome-agent-skills,https://github.com/VoltAgent/awesome-agent-skills/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+SimplifyJobs/Summer2027-Internships,https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+modelcontextprotocol/servers,https://github.com/modelcontextprotocol/servers/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+supabitapp/supacode,https://github.com/supabitapp/supacode/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+open-guides/og-aws,https://github.com/open-guides/og-aws/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+zhayujie/CowAgent,https://github.com/zhayujie/CowAgent/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+ByteByteGoHq/system-design-101,https://github.com/ByteByteGoHq/system-design-101/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+muxy-app/muxy,https://github.com/muxy-app/muxy/blob/main/README.md,200,included,Multi-Agent Terminal,2026-11-15T11:45:46.165921+00:00
+agentscope-ai/agentscope,https://github.com/agentscope-ai/agentscope/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+9001/copyparty,https://github.com/9001/copyparty/blob/hovudstraum/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+koala73/worldmonitor,https://github.com/koala73/worldmonitor/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+kunchenguid/axi,https://github.com/kunchenguid/axi/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+awesome-foss/awesome-sysadmin,https://github.com/awesome-foss/awesome-sysadmin/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+getkimchi/kimchi,https://github.com/getkimchi/kimchi/blob/master/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+sorrycc/awesome-javascript,https://github.com/sorrycc/awesome-javascript/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+unclecode/crawl4ai,https://github.com/unclecode/crawl4ai/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+auctors/free-lunch,https://github.com/auctors/free-lunch/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+OpenBMB/ChatDev,https://github.com/OpenBMB/ChatDev/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+agno-agi/agno,https://github.com/agno-agi/agno/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+datawhalechina/hello-agents,https://github.com/datawhalechina/hello-agents/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+uhub/awesome-c,https://github.com/uhub/awesome-c/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+iOfficeAI/AionUi,https://github.com/iOfficeAI/AionUi/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+tinyhumansai/openhuman,https://github.com/tinyhumansai/openhuman/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+rtk-ai/rtk,https://github.com/rtk-ai/rtk/blob/develop/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+VILA-Lab/Dive-into-Claude-Code,https://github.com/VILA-Lab/Dive-into-Claude-Code/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+vxcontrol/pentagi,https://github.com/vxcontrol/pentagi/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+psf/black,https://github.com/psf/black/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+Gentleman-Programming/Gentleman.Dots,https://github.com/Gentleman-Programming/Gentleman.Dots/blob/main/README.md,200,included,Multi-Agent Terminal,2026-11-15T11:45:46.165921+00:00
+Yeachan-Heo/oh-my-codex,https://github.com/Yeachan-Heo/oh-my-codex/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+hpcaitech/ColossalAI,https://github.com/hpcaitech/ColossalAI/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+ryan4yin/nix-config,https://github.com/ryan4yin/nix-config/blob/main/README.md,200,included,Multi-Agent Terminal,2026-11-15T11:45:46.165921+00:00
+surrealdb/surrealdb,https://github.com/surrealdb/surrealdb/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+datalab-to/marker,https://github.com/datalab-to/marker/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+laravel/laravel,https://github.com/laravel/laravel/blob/13.x/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+ai4s-research/awesome-ai-for-science,https://github.com/ai4s-research/awesome-ai-for-science/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+ziadoz/awesome-php,https://github.com/ziadoz/awesome-php/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+ratatui/awesome-ratatui,https://github.com/ratatui/awesome-ratatui/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+floci-io/floci,https://github.com/floci-io/floci/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+pola-rs/polars,https://github.com/pola-rs/polars/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+Octane0411/open-vibe-island,https://github.com/Octane0411/open-vibe-island/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+hesamsheikh/awesome-openclaw-usecases,https://github.com/hesamsheikh/awesome-openclaw-usecases/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+microsoft/playwright-mcp,https://github.com/microsoft/playwright-mcp/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+fighting41love/funNLP,https://github.com/fighting41love/funNLP/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+krzemienski/awesome-video,https://github.com/krzemienski/awesome-video/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+nautechsystems/nautilus_trader,https://github.com/nautechsystems/nautilus_trader/blob/develop/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+heygen-com/hyperframes,https://github.com/heygen-com/hyperframes/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+stakpak/agent,https://github.com/stakpak/agent/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+oraios/serena,https://github.com/oraios/serena/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+alchaincyf/nuwa-skill,https://github.com/alchaincyf/nuwa-skill/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+opendatalab/MinerU,https://github.com/opendatalab/MinerU/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+enetx/surf,https://github.com/enetx/surf/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+langchain-ai/deepagents,https://github.com/langchain-ai/deepagents/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+HKUDS/Vibe-Trading,https://github.com/HKUDS/Vibe-Trading/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+standardagents/dmux,https://github.com/standardagents/dmux/blob/main/README.md,200,included,Multi-Agent Terminal,2026-11-15T11:45:46.165921+00:00
+nanocoai/nanoclaw,https://github.com/nanocoai/nanoclaw/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+Jedward23/Tmux-Orchestrator,https://github.com/Jedward23/Tmux-Orchestrator/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+e2b-dev/awesome-ai-agents,https://github.com/e2b-dev/awesome-ai-agents/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+netdata/netdata,https://github.com/netdata/netdata/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+aidanpark/openclaw-android,https://github.com/aidanpark/openclaw-android/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+QwenLM/qwen-code,https://github.com/QwenLM/qwen-code/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+Tencent/WeKnora,https://github.com/Tencent/WeKnora/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+abi/screenshot-to-code,https://github.com/abi/screenshot-to-code/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+unstablebuild/rune,https://github.com/unstablebuild/rune/blob/main/README.md,200,included,Multi-Agent Terminal,2026-11-15T11:45:46.165921+00:00
+academic/awesome-datascience,https://github.com/academic/awesome-datascience/blob/live/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+huggingface/pytorch-image-models,https://github.com/huggingface/pytorch-image-models/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+arcataroger/awesome-engineering-games,https://github.com/arcataroger/awesome-engineering-games/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+kestra-io/kestra,https://github.com/kestra-io/kestra/blob/develop/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+RehanSaeed/Bash-Cheat-Sheet,https://github.com/RehanSaeed/Bash-Cheat-Sheet/blob/main/README.md,200,included,Multi-Agent Terminal,2026-11-15T11:45:46.165921+00:00
+harvard-edge/cs249r_book,https://github.com/harvard-edge/cs249r_book/blob/dev/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+awesomedata/awesome-public-datasets,https://github.com/awesomedata/awesome-public-datasets/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+zed-industries/awesome-gpui,https://github.com/zed-industries/awesome-gpui/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+alirezarezvani/claude-skills,https://github.com/alirezarezvani/claude-skills/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+casey/just,https://github.com/casey/just/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+dair-ai/Prompt-Engineering-Guide,https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+Furthir/awesome-useful-projects,https://github.com/Furthir/awesome-useful-projects/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+authelia/authelia,https://github.com/authelia/authelia/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+Dicklesworthstone/agentic_coding_flywheel_setup,https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+mastra-ai/mastra,https://github.com/mastra-ai/mastra/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+microsoft/ai-agents-for-beginners,https://github.com/microsoft/ai-agents-for-beginners/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+AltanS/collie,https://github.com/AltanS/collie/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+ArchiveBox/ArchiveBox,https://github.com/ArchiveBox/ArchiveBox/blob/dev/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+NandhaKishorM/laya,https://github.com/NandhaKishorM/laya/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+learning-zone/python-basics,https://github.com/learning-zone/python-basics/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+h4ckf0r0day/obscura,https://github.com/h4ckf0r0day/obscura/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+unslothai/unsloth,https://github.com/unslothai/unsloth/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+akitaonrails/ai-jail,https://github.com/akitaonrails/ai-jail/blob/master/README.md,200,included,Multi-Agent Terminal,2026-11-15T11:45:46.165921+00:00
+microsoft/semantic-kernel,https://github.com/microsoft/semantic-kernel/blob/main/README.md,200,included,Agent Orchestrator,2026-11-15T11:45:46.165921+00:00
+storytold/photocraft,https://github.com/storytold/photocraft/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+geckosio/geckos.io,https://github.com/geckosio/geckos.io/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+OthmanAdi/planning-with-files,https://github.com/OthmanAdi/planning-with-files/blob/master/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+caddyserver/caddy,https://github.com/caddyserver/caddy/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+bradAGI/awesome-cli-coding-agents,https://github.com/bradAGI/awesome-cli-coding-agents/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+enaqx/awesome-pentest,https://github.com/enaqx/awesome-pentest/blob/master/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+egoist/kero,https://github.com/egoist/kero/blob/main/README.md,200,included,Multi-Agent Terminal,2026-11-15T11:45:46.165921+00:00
+humanlayer/12-factor-agents,https://github.com/humanlayer/12-factor-agents/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+getzep/graphiti,https://github.com/getzep/graphiti/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+oskardudycz/ArchitectureWeekly,https://github.com/oskardudycz/ArchitectureWeekly/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
+VoltAgent/awesome-claude-code-subagents,https://github.com/VoltAgent/awesome-claude-code-subagents/blob/main/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+nestjs/nest,https://github.com/nestjs/nest/blob/master/README.md,200,included,Coding Agent,2026-11-15T11:45:46.165921+00:00
+jellydn/zed-101-setup,https://github.com/jellydn/zed-101-setup/blob/main/README.md,200,review_or_excluded,REVIEW,2026-11-15T11:45:46.165921+00:00
